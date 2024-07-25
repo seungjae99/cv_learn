@@ -1,4 +1,4 @@
-# face detectin with camera
+# face detection with camera
 
 import cv2 as cv
 import sys
